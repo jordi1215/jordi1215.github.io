@@ -11,10 +11,12 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-### Week 2: April 26, 2021
+### Week 4: April 17, 2021
 
 * **Monday**: 
+    * attended meeting
 * **Tuesday**: 
+    * Created a pull request to add my link to the bootcamp website
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
