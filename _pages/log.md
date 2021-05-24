@@ -11,7 +11,7 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-### Week 4: April 17, 2021
+### Week 4: May 17, 2021
 
 * **Monday**: 
     * attended meeting
@@ -23,7 +23,11 @@ title: IMMERSE Log
         * I replaced all the standard dict() in the parser.py file with OrderedDict and it worked
 
 * **Wednesday**: 
-
 * **Thursday**: 
+    * I felt sick Wednesday and Thursday
 * **Friday**:
+    * Dallin was busy so Ben, Jacob and I attempted a release we couldn’t proceed because of a Travis test. I am not sure what this test is supposed to do. It says it has to do with the branch
+    * However, we were able to merge all the changes that the four of us made into one branch and passed all the tests but the python3.5 test again
+    * When Dallin updated his code, the reference for the ordered Dictionay was changed and I was able to fix that right after our meeting
+
 
