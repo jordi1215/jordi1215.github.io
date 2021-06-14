@@ -3,13 +3,18 @@ layout: default
 title: IMMERSE Log
 ---
 
-### Week 1: April 26, 2021
 
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
+
+* **This week's goal**:
+    * Finish teh comparator for definition and instances
+        * this includes the comparator for all the sub classes
+            * Ports
+            * Wires
+            * pins
+
+* **Friday June 12**:
+    * Finished updating the release instructions. They are the clearest that it has ever been. Hopefully, people should be able to use this to tackle all of the problems that we have encountered in the past
+
 
 ### Week 4: May 17, 2021
 
